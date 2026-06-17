@@ -67,5 +67,5 @@ This repository serves as a collection of quantum algorithm implementations for 
 - Course Notes: Quantum Computing (QT 207)  
   Prof. Navin Kashyap, ECE Department, Indian Institute of Science (IISc), Bangalore
 
-- Course Notes: Scientific Computing with Quantum Algorithms (DS 394) 
+- Course Notes: Scientific Computing with Quantum Algorithms (DS 394)   
   Prof. Phani Motamarri, CDS Department, Indian Institute of Science (IISc), Bangalore  
