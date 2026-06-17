@@ -50,4 +50,15 @@ We construct Grover operator using Qiskit and apply optimal iterations based on:
 
 We estimate probability of occurrence of letters using repeated Grover simulations.
 
+# Grover's Search Algorithm for Multiple Marked States
 
+## Problem Statement
+
+Implement Grover's search algorithm using Qiskit to identify multiple marked states in a 3-qubit search space.
+
+The oracle should mark the states:
+
+- |011⟩
+- |100⟩
+
+Construct the Grover operator, determine the optimal number of Grover iterations, execute the algorithm on a simulator, and analyze the measurement distribution.
