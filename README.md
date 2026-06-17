@@ -68,4 +68,4 @@ This repository serves as a collection of quantum algorithm implementations for 
   Prof. Navin Kashyap, ECE Department, Indian Institute of Science (IISc), Bangalore
 
 - Course Notes: Scientific Computing with Quantum Algorithms (DS 394) 
-  Prof. Phani Motamarri, CDS Department, Indian Institute of Science (IISc), Bangalore
+  Prof. Phani Motamarri, CDS Department, Indian Institute of Science (IISc), Bangalore  
