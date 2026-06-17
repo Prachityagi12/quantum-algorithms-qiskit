@@ -62,3 +62,18 @@ The oracle should mark the states:
 - |100⟩
 
 Construct the Grover operator, determine the optimal number of Grover iterations, execute the algorithm on a simulator, and analyze the measurement distribution.
+
+## Results
+
+The Grover search algorithm successfully amplified the amplitudes of the marked states.
+
+Measurement counts obtained from 10,000 shots:
+
+| State | Counts |
+|--------|--------|
+| 011 | 5091 |
+| 100 | 4909 |
+
+All other states were measured with negligible probability.
+
+The results confirm that the marked states |011⟩ and |100⟩ were correctly identified by the Grover search algorithm.
