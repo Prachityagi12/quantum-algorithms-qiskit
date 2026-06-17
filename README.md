@@ -22,8 +22,11 @@ Folder:
 
 ---
 
-### 3. Quantum Fourier Transform (QFT)
-Implementation of QFT, which is a fundamental quantum operation used in several quantum algorithms.
+### 3. Quantum Fourier Transform (QFT) and Inverse QFT (IQFT)
+
+Implementation of Quantum Fourier Transform (QFT) and its inverse operation (IQFT) using Qiskit.
+
+QFT is a fundamental quantum operation used as a building block in various quantum algorithms, while IQFT is used for reversing the Fourier transformation and plays an important role in algorithms such as Quantum Phase Estimation.
 
 Folder:
 `QFT`
@@ -46,3 +49,14 @@ Folder:
 - Jupyter Notebook
 
 ## Repository Structure
+
+Each algorithm is implemented in a separate Jupyter notebook.
+
+## Purpose
+
+This repository serves as a collection of quantum algorithm implementations for learning and experimentation with quantum circuits and simulations.
+
+## References
+
+- Qiskit Documentation
+- Nielsen & Chuang, Quantum Computation and Quantum Information
