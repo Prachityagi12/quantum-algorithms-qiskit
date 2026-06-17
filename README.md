@@ -71,9 +71,11 @@ Measurement counts obtained from 10,000 shots:
 
 | State | Counts |
 |--------|--------|
-| 011 | 5091 |
-| 100 | 4909 |
+| 011 | 5048 |
+| 100 | 4952 |
 
 All other states were measured with negligible probability.
+
+![Grover Search Results](grover_multiple_solutions_histogram.png)
 
 The results confirm that the marked states |011⟩ and |100⟩ were correctly identified by the Grover search algorithm.
