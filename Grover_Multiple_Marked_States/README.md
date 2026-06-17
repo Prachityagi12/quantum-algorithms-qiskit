@@ -31,8 +31,8 @@ The measurement outcomes are concentrated on the marked states:
 
 | State | Counts |
 | ----- | -----: |
-| 011   |   5091 |
-| 100   |   4909 |
+| 011   |   5048 |
+| 100   |   4952 |
 
 All other states were measured with negligible probability.
 
