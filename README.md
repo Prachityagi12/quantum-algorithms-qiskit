@@ -58,5 +58,14 @@ This repository serves as a collection of quantum algorithm implementations for 
 
 ## References
 
-- Qiskit Documentation
-- Nielsen & Chuang, Quantum Computation and Quantum Information
+- Qiskit Documentation  
+  https://qiskit.org/documentation/
+
+- M. A. Nielsen and I. L. Chuang,  
+  *Quantum Computation and Quantum Information*
+
+- Course Notes: Quantum Computing (QT 207)  
+  Prof. Navin Kashyap, ECE Department, Indian Institute of Science (IISc), Bangalore
+
+- Course Notes: Scientific Computing with Quantum Algorithms (DS 394) 
+  Prof. Phani Motamarri, CDS Department, Indian Institute of Science (IISc), Bangalore
