@@ -15,4 +15,4 @@ The circuit consists of an oracle and Grover diffusion operator to amplify the p
 
 The following plot shows the measurement results obtained from the Grover circuit simulation.
 
-![Grover Algorithm Result](plots/grover_plot.png)
+![Grover Algorithm Result](Grover_letter_search_histogram.png)
