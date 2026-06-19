@@ -21,4 +21,6 @@ The Hadamard Test is a quantum algorithm used to estimate the expectation value 
 
 ## Result
 
-The error decreases approximately as ( O(1/\sqrt{N}) ), consistent with the expected statistical behavior of quantum measurements.
+![Hadamard Test Error Analysis](hadamard_test_error_vs_shots.png)
+
+The error decreases approximately as O(1/√N), consistent with the expected statistical behavior of quantum measurements.
