@@ -32,9 +32,9 @@ For a fixed ancilla register size (4 qubits), increasing the number of measureme
 
 The estimation error was analyzed for different numbers of measurement shots. The log-log plot shows the convergence behavior and can be compared with the theoretical scaling:
 
-O(1/N)
+`O(1/N)`
 
-where N is the number of shots.
+where `N` is the number of shots.
 
 ### Error vs Ancilla Qubits
 
@@ -42,7 +42,7 @@ where N is the number of shots.
 
 The phase estimation error decreases as the number of ancilla qubits increases.
 
-For θ = 0.5625, the error becomes essentially zero when four ancilla qubits are used because the phase has an exact 4-bit binary representation (0.1001₂).
+For θ = 0.5625, the error becomes essentially zero when four ancilla qubits are used because the phase has an exact 4-bit binary representation (`0.1001₂`).
 
 For θ = 0.1234, the error decreases significantly but remains finite because the phase cannot be represented exactly using a finite number of binary digits.
 
@@ -50,8 +50,9 @@ These results demonstrate that the accuracy of Quantum Phase Estimation is prima
 
 ## References
 
-- Qiskit Documentation
-- M. A. Nielsen and I. L. Chuang,
+* Qiskit Documentation
+* M. A. Nielsen and I. L. Chuang,
   *Quantum Computation and Quantum Information*
-- Course Notes: Scientific Computing with Quantum Algorithms (DS 394),
+* Course Notes: Scientific Computing with Quantum Algorithms (DS 394),
   Prof. Phani Motamarri, CDS Department, Indian Institute of Science (IISc), Bangalore
+
