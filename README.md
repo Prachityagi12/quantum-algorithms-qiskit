@@ -41,6 +41,44 @@ Folder:
 
 ---
 
+### 5. Hadamard Test
+
+Implementation of the Hadamard Test for estimating the phase of a Phase Gate eigenvalue.
+
+The project analyzes the estimation error as a function of the number of measurement shots and compares the observed convergence with the theoretical scaling.
+
+Folder:
+`Hadamard_Test`
+
+---
+
+### 6. Kitaev Phase Estimation
+
+Implementation of Kitaev's Phase Estimation Algorithm using Qiskit.
+
+The algorithm estimates the phase using a sequence of quantum circuits and classical post-processing, requiring fewer qubits than standard Quantum Phase Estimation.
+
+Folder:
+`Kitaev_Phase_Estimation`
+
+---
+
+### 7. Quantum Phase Estimation (QPE) Error Analysis
+
+Error analysis of the Quantum Phase Estimation algorithm for different phase values.
+
+The study investigates:
+
+- Error vs Number of Shots
+- Error vs Number of Ancilla Qubits
+
+and compares the observed behavior with theoretical expectations.
+
+Folder:
+`QPE_Error_Analysis`
+
+---
+
 ## Technologies Used
 
 - Python
